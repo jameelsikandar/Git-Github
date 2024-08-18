@@ -1,3 +1,8 @@
 console.log("Hello World");
-const name = "Piyush";
-console.log(name);
+const name1 = "Piyush";
+console.log(name1);
+
+const arrow = ()=> {
+    console.log("Hello");
+    
+}
